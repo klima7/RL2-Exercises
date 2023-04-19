@@ -2,3 +2,4 @@ conda
 conda_pytorch
 .ipynb_checkpoints
 res/
+lightning_logs
